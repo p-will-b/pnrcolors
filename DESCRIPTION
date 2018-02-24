@@ -1,5 +1,5 @@
 Package: pnrcolors
-Title: What the Package Does (one line, title case)
+Title: pnrcolors
 Version: 1.0
 Authors@R: person("Peter", "Beer", email = "peter.w.beer@gmail.com", role = c("aut", "cre"))
 Description: Generates P&R colors
