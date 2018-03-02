@@ -3,7 +3,7 @@ Title: pnrcolors
 Version: 1.0
 Authors@R: person("Peter", "Beer", email = "peter.w.beer@gmail.com", role = c("aut", "cre"))
 Description: Generates P&R colors
-Depends: R (>= 3.4.3)
+Depends: R (>= 3.4.0)
 License: License: MIT + file LICENSE
 URL: https://github.com/p-will-b/pnrcolors
 BugReports: https://github.com/p-will-b/pnrcolors/issues
